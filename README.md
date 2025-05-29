@@ -1,3 +1,5 @@
+<img src="BG12.jpg" />
+
 # Machine Learning
 # 👋 Hi, I'm Shailee
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
